@@ -1,0 +1,21 @@
+{
+    "name": "netsuite-snippets",
+    "displayName": "NetSuite Snippets",
+    "description": "NetSuite snippets",
+    "version": "0.0.1",
+    "publisher": "volneiferreira",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
